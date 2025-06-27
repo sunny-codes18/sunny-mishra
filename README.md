@@ -1,9 +1,8 @@
 
 <h1 align="center"><b>Hi there, I'm Sunny Mishra 👋</b></h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Machine+Learning+Engineer;Python+Enthusiast+🐍;Builder+of+Real-World+Solutions+🚀;Stock+Price+Analyzer+Project+Creator" alt="Typing SVG" />
-</p>
+
+
 
 ---
 
